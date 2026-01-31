@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "nodemailer": "^7.0.12",
+    "react-hot-toast": "^2.6.0",
+    "react-spinner": "^0.2.7",
+    "react-spinners": "^0.17.0"
+  }
+}

@@ -1,0 +1,12 @@
+# Ignore node_modules in any subfolder
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Ignore environment variables (sensitive data)
+.env
+backend/.env
+
+# Ignore build folders
+frontend/build/
+frontend/dist/
