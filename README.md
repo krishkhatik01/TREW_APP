@@ -16,6 +16,6 @@ A robust full-stack application built with the **MERN** stack (MongoDB, Express,
 
 ## 📂 Project Structure
 ```text
-TREW_APP/
+TREW/
 ├── frontend/     # React + Vite Application
 └── backend/      # Node.js API + Database Models
